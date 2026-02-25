@@ -3,8 +3,6 @@
 
 ## 📌 Project Overview 
 
-<img width="1536" height="1024" alt="ER Diagram" src="https://github.com/user-attachments/assets/4b8a1728-b84b-4b8e-ac56-c445829f199a" />
-
 This project demonstrates end-to-end data analysis using SQL on a structured e-commerce Sales Database.
 
 The objective was to simulate real-world business scenarios and extract actionable insights related to:
